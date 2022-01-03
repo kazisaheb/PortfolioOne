@@ -62,8 +62,14 @@ section {
 }
 
 .shadow {
-  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+  box-shadow: 5px 5px 30px gray;
   margin: 15px;
-  background-color: #f0eeee;
   border-top-left-radius: 25px;
+  border-left: 5px solid orange;
+}
+
+#sec-three {
+  background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpyBEC-afOzZRpfqsoRolE-I5MfzBNOiccFItpEqOnDLRerU6i);
+  background-repeat: no-repeat;
+  background-position: right -100px bottom 30px;
 }
