@@ -7,8 +7,12 @@ h1 {
   font-size: 40px;
 }
 
+h2 {
+  color: #f35b2d;
+}
+
 #name-color {
-  color: rgb(243, 91, 45);
+  color: #f35b2d;
 }
 
 section {
@@ -52,6 +56,14 @@ section {
 }
 
 #second-para {
-  background-color: #dadada8e;
+  background-color: #0000008a;
   padding: 2%;
+  color: #fff;
+}
+
+.shadow {
+  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+  margin: 15px;
+  background-color: #f0eeee;
+  border-top-left-radius: 25px;
 }
