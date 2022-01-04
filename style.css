@@ -44,6 +44,11 @@ section {
   border-radius: 5px;
 }
 
+#hire-btn:hover {
+  background-image: linear-gradient(#c32306, orange);
+  text-shadow: 2px 2px #110101;
+}
+
 #top-sec {
   background-image: url(https://pixy.org/download/891117/);
   background-repeat: no-repeat;
