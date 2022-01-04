@@ -31,8 +31,8 @@ section {
   border-radius: 200%;
   border: 5px solid rgba(0, 0, 255, 0);
   outline: 5px solid rgb(156, 156, 156);
-  margin-top: 20px;
-  vertical-align: auto;
+  margin: 20px auto;
+  display: flex;
 }
 
 #hire-btn {
